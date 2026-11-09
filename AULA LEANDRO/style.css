@@ -1,0 +1,48 @@
+body {
+    background-color: lightgreen;
+    color: black;
+    font-family: Arial, sans-serif;
+    background-image: url("img/fundo.png");
+    background-size: cover;
+}
+
+div {
+    background-color: lightgoldenrodyellow;
+    border-radius: 12px;
+    width: 1300px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 24px;
+    margin: 32px;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 100px;
+}
+
+h2 {
+    text-align: center;
+
+}
+
+p.primeiro {
+    font-size: 20px;
+    text-align: center;
+}
+
+div.redesocial img {
+    width: 60px;
+    margin: 20px;
+    height: 60px;
+}
+
+
+p.segundo {
+    font-size: 20px;
+    margin: 15px;
+}
